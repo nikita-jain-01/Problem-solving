@@ -1,5 +1,6 @@
-//  Output  ->  Hello, World.
-//              Hello, Java.
+/*  Output  ->  Hello, World.
+                Hello, Java.
+*/
 
 
 

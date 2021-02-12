@@ -1,10 +1,12 @@
-// Input    ->  42
-//              3.1415
-//              Welcome to HackerRank's Java tutorials!
+/*
+Input    ->  42
+             3.1415
+             Welcome to HackerRank's Java tutorials!
 
-// Output   ->  String: Welcome to HackerRank's Java tutorials!
-//              Double: 3.1415
-//              Int: 42
+Output   ->  String: Welcome to HackerRank's Java tutorials!
+             Double: 3.1415
+             Int: 42
+*/
 
 
 

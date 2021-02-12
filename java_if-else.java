@@ -1,8 +1,10 @@
-// Input    ->  3
-// Output   ->  Weird
+/*
+Input    ->  3
+Output   ->  Weird
 
-// Input    ->  24
-// Output   ->  Not Weird
+Input    ->  24
+Output   ->  Not Weird
+*/
 
 
 

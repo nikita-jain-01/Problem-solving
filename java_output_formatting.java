@@ -1,11 +1,14 @@
-// Input    ->  java 100
-//              cpp 65
-//              python 50
+/*
+Input    ->  java 100
+             cpp 65
+             python 50
 
-//Output    -> ===============
-//             java           100
-//             cpp            065
-//             python         050
+Output    -> ===============
+             java           100
+             cpp            065
+             python         050
+             ===============
+*/
 
 
 

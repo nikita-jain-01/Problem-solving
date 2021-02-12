@@ -1,3 +1,15 @@
+// Input    ->  java 100
+//              cpp 65
+//              python 50
+
+//Output    -> ===============
+//             java           100
+//             cpp            065
+//             python         050
+
+
+
+
 import java.util.Scanner;
 public class Solution {
     public static void main(String[] args) {

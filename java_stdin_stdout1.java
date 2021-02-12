@@ -1,3 +1,14 @@
+// Input    ->  3
+//              5
+//              9
+
+//Output    ->  3
+//              5
+//              9
+
+
+
+
 import java.util.*;
 public class Solution {
     public static void main(String[] args) {

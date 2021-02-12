@@ -1,3 +1,12 @@
+// Input    ->  3
+// Output   ->  Weird
+
+// Input    ->  24
+// Output   ->  Not Weird
+
+
+
+
 import java.io.*;
 import java.math.*;
 import java.security.*;

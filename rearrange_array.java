@@ -4,7 +4,7 @@ Input -> 5
 
 Output -> -1 1 2 -1 4
 
-Explaination -> expression : if arr contains i else print -1
+Expression : if arr contains i print i else print -1
 */
 
 

@@ -1,3 +1,14 @@
+/*
+Input  -> 5
+          2 6 5 9 8
+          9
+
+Output -> 3
+*/
+
+
+
+
 import java.util.*;
 public class HelloWorld{
      public static void main(String []args){

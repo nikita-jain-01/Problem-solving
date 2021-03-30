@@ -1,7 +1,7 @@
 /*
-Input -> Hello_CodeTrophs
+Input -> Hello
 
-Output -> 16
+Output -> 5
 */
 
 

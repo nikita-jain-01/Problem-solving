@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class bunny_ear {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int x = scan.nextInt();
@@ -8,7 +8,7 @@ class Main {
         System.out.println(sum);
     }
 
-    public int bunnyEars(int bunnies) {
+    public static int bunnyEars(int bunnies) {
         if (bunnies == 0)
             return 0;
         else

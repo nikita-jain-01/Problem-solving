@@ -16,16 +16,16 @@ class start_1 {
     }
 
     public static int start1(int[] a, int[] b) {
-        int i, count = 0;
+        int c = 0;
         if (a.length > 0) {
             if (a[0] == 1)
-                count++;
+                c++;
         }
         if (b.length > 0) {
             if (b[0] == 1)
-                count++;
+                c++;
         }
-        return count;
+        return c;
     }
 
 }
